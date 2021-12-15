@@ -1,2 +1,2 @@
 # SNS GroundBarUI
-HTMLによるGroundBarUIです。JavaScript実行可能環境下で作動します。
+HTML,CSSによるGroundBarUIです。JavaScript実行可能環境下で作動します。
