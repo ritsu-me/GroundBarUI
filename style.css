@@ -8,7 +8,7 @@
 }
 :root
 {
-    --clr: #222327;
+    --clr: #fff;
 }
 body
 {
@@ -22,7 +22,7 @@ body
 {
     width: 400px;
     height: 70px;
-    background: #fff;
+    background: #2f3136;
     position: relative;
     display: flex;
     justify-content: center;
@@ -89,7 +89,7 @@ body
     top: -50%;
     width: 70px;
     height: 70px;
-    background: #29fd53;
+    background: #5865F2;
     border-radius: 50%;
     border: 6px solid var(--clr);
     transition: 0.5s;
